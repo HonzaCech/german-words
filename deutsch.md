@@ -1,5 +1,39 @@
 das Holz - dřevo  
-der Wald - les  
+der Wald - les
+ergänzen - doplnit
+hören - slyšet
+sehen - vidět
+wiederholen - opakovat
+sprechen - mluvit
+ein wenig - málo
+
+## Fraze
+Wie geht es Ihnen - Jak se máte
+Mir geht es gut/schlecht - Mám se dobře/špatně
+Wie oft- jak často
+Wie viele - kolik
+
+
+Werr - kdo
+ein Buch - kniha
+Stunde - hodina
+froh - šťastný
+dort - tam
+hier - tady
+fahren - jet
+billig - levný
+teuer - drahý
+reisen - cestovat
+für - pro
+Woche - týden
+Monat - měsíc
+Sprache - jazyk
+draussen - venku
+innen - uvnitř
+Kleidung - oblečení
+berühmt - slavný
+oder - nebo
+
 
 ## Rodina
 

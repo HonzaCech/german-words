@@ -7,7 +7,7 @@ wiederholen - opakovat
 sprechen - mluvit
 ein wenig - málo
 
-## Fraze
+## Fráze
 Wie geht es Ihnen - Jak se máte
 Mir geht es gut/schlecht - Mám se dobře/špatně
 Wie oft- jak často
@@ -96,6 +96,10 @@ die Kartoffeln - brambory
 der Blumenkohl - květák
 der Mais - kukuřice
 die Erdbeeren - jahody
+die Trauben - hrozny
+die Karotte - mrkev
+die Radieschen - ředkvička
+der Tee - čaj
 frish - čerstvý
 der Kühlschrank
 der Supermarkt - supermarket
@@ -118,3 +122,19 @@ iggit - nedobré (o jídle)
 mager - libový, nízkotučný
 gesund - zdravý
 weich - měkký
+nach - po
+die Auswahl - výběr
+bevorzugen - preferovat
+der Becher - pohár/sklenice
+nur wenn - jenom když
+der Schnellimbiss - rychlé občerstvení
+ungesund - nezdravé
+nett - milý
+nehmen - brát
+reife - zralé
+die Sahne - šlehačka, smetana
+Braten - pečeně 
+manchmal - někdy
+das Rindfleisch - hovězí
+das Hähnchen - kuřecí
+einfach - jednoduchý
